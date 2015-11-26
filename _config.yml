@@ -1,0 +1,28 @@
+name: Relationships
+favicon: null
+layout_spectrum: 0.28012003866024315
+typography_spectrum: 0.46277732308954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.022042692406103015
+  lightness: 0.12330766418017447
+  saturation: 0.1817391759250313
+  rhythmicContrast: 0.990040136501193
+purpose: []
